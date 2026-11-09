@@ -1,0 +1,6 @@
+{
+  "name": "АБЛ РІВНЕНЩИНИ — Сезон 2026–2027",
+  "description": "Офіційний вебпортал Аматорської баскетбольної ліги Рівненщини. Турнірна таблиця, команди, календар матчів, статистика та Фінал чотирьох.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
